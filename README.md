@@ -1,104 +1,128 @@
 # Masters in Machine Learning for the Climate
 
-## Prerequisites  
-1. **Mathematics for Machine Learning**  
-   - Topics: Linear Algebra, Calculus, Probability, Optimization.  
-   - Recommended: *Mathematics for Machine Learning* (Coursera).  
+## Prerequisites
 
-2. **Python Programming for Data Science and ML**  
-   - Key Libraries: TensorFlow, PyTorch, scikit-learn, GeoPandas, Rasterio.
-     
+1. **Mathematics for Machine Learning**
+
+   - Topics: Linear Algebra, Calculus, Probability, Optimization.
+   - Recommended: _Mathematics for Machine Learning_ (Coursera).
+
+2. **Python Programming for Data Science and ML**
+
+   - Key Libraries: PyTorch, scikit-learn, GeoPandas, Rasterio, TensorFlow.
+
      \* Don't worry, we will get a lot of experience with these
 
-   - Recommended Learning: *Python for Data Science Handbook*, Daniel Bourke’s intro to ML.  
+   - Recommended Learning: _Python for Data Science Handbook_, Daniel Bourke’s intro to ML.
 
 ---
 
-## Core Curriculum  
+## Core Curriculum
 
-### 1. Machine Learning and AI (Aligned with Daniel Bourke’s Topics)  
-- **Supervised and Unsupervised Learning**  
-   - Linear Regression, Classification, Clustering.  
+### 1. Machine Learning and AI (Aligned with Daniel Bourke’s Topics)
 
-- **Deep Learning for Computer Vision**  
-   - CNNs, Transfer Learning, U-Net segmentation models.  
+- **Supervised and Unsupervised Learning**
 
-- **Time Series Forecasting for Climate Data**  
-   - ARIMA, LSTMs, Transformers for temporal analysis.  
+  - Linear Regression, Classification, Clustering.
 
-- **ML Engineering and MLOps**  
-   - Model deployment, monitoring, and pipelines with MLflow and DVC.  
+- **Deep Learning for Computer Vision**
 
----
+  - CNNs, Transfer Learning, U-Net segmentation models.
 
-### 2. Remote Sensing and Earth Observation  
-- **Foundations of Remote Sensing**  
-   - Sensor types, NDVI, NDSI, and multi-band imagery.  
+- **Time Series Forecasting for Climate Data**
 
-- **Working with Raster Data**  
-   - Hands-on with Landsat, Sentinel, MODIS using Google Earth Engine and Python tools.  
+  - ARIMA, LSTMs, Transformers for temporal analysis.
 
-- **Vector-Based Spatial Data Analysis**  
-   - Tools: GeoPandas, QGIS, Shapely.  
-   - Use Cases: Power grid mapping, emission sources, and disaster response routes.
+- **ML Engineering and MLOps**
+  - Model deployment, monitoring, and pipelines with MLflow and DVC.
 
 ---
 
-### 3. Environmental and Climate Science  
-- **Climate Change and Carbon Tracking**  
-   - IPCC reports, carbon footprints, sustainability metrics.  
+### 2. Remote Sensing and Earth Observation
 
-- **Energy Systems and Grid Monitoring**  
-   - Topics: Energy markets, demand-response models, and emissions tracking APIs.
+- **Foundations of Remote Sensing**
 
----
+  - Sensor types, NDVI, NDSI, and multi-band imagery.
 
-### 4. Applied Tools and Projects  
-- **Real-Time Carbon Monitoring Systems**  
-   - Prototype: Build a system like WattTime with real-time emissions data.  
+- **Working with Raster Data**
 
-- **Disaster Detection Models**  
-   - Apply ML to detect fires, floods, or droughts using satellite data.  
+  - Hands-on with Landsat, Sentinel, MODIS using Google Earth Engine and Python tools.
 
-- **Energy Usage Forecasting**  
-   - Use time series models to predict energy demand and optimize consumption.
+- **Vector-Based Spatial Data Analysis**
+  - Tools: GeoPandas, QGIS, Shapely.
+  - Use Cases: Power grid mapping, emission sources, and disaster response routes.
 
 ---
 
-### 5. Cloud Computing and Infrastructure  
-- **Cloud Platforms for Data Science**  
-   - Tools: Google Cloud, AWS, Hugging Face Spaces.  
+### 3. Environmental and Climate Science
 
-- **Containerization and Reproducibility**  
-   - Use Docker, Kubernetes for scalable and reproducible workflows.  
+- **Climate Change and Carbon Tracking**
 
----
+  - IPCC reports, carbon footprints, sustainability metrics.
 
-### 6. Ethics and Impact of Climate AI  
-- **Responsible AI for Climate Action**  
-   - Topics: Data privacy, ethical considerations, and bias in emissions tracking.  
+- **Energy Systems and Grid Monitoring**
+  - Topics: Energy markets, demand-response models, and emissions tracking APIs.
 
 ---
 
-### 7. Capstone Project  
-**"Carbon-Aware Energy Monitoring System"**  
-- Build a WattTime-style system that integrates satellite imagery, vector data, and ML models to optimize energy use based on real-time emissions.  
+### 4. Applied Tools and Projects
+
+- **Real-Time Carbon Monitoring Systems**
+
+  - Prototype: Build a system like WattTime with real-time emissions data.
+
+- **Disaster Detection Models**
+
+  - Apply ML to detect fires, floods, or droughts using satellite data.
+
+- **Energy Usage Forecasting**
+  - Use time series models to predict energy demand and optimize consumption.
 
 ---
 
-## 8. Maximizing Job Potential  
+### 5. Cloud Computing and Infrastructure
 
-- **Build a Portfolio**  
-   - Showcase your applied projects (e.g., disaster detection models, carbon-aware systems) on GitHub.  
+- **Cloud Platforms for Data Science**
 
-- **Publish Your Work**  
-   - Write blog posts or reports on Medium/Twitter to share insights and get feedback.  
+  - Tools: Google Cloud, AWS, Hugging Face Spaces.
 
-- **Network in Climate AI Communities**  
-   - Engage with **Climate Change AI**, **Climate Trace partners**, and other climate tech networks.  
+- **Containerization and Reproducibility**
+  - Use Docker, Kubernetes for scalable and reproducible workflows.
 
-- **Participate in Competitions and Hackathons**  
-   - Join challenges related to remote sensing, emissions tracking, or energy forecasting. 
+---
 
-- **Apply for Internships and Fellowships**  
-   - Look for roles with climate tech companies, NGOs, or research groups to gain practical experience.
+### 6. Ethics and Impact of Climate AI
+
+- **Responsible AI for Climate Action**
+  - Topics: Data privacy, ethical considerations, and bias in emissions tracking.
+
+---
+
+### 7. Capstone Project
+
+**"Carbon-Aware Energy Monitoring System"**
+
+- Build a WattTime-style system that integrates satellite imagery, vector data, and ML models to optimize energy use based on real-time emissions.
+
+---
+
+## 8. Maximizing Job Potential
+
+- **Build a Portfolio**
+
+  - Showcase your applied projects (e.g., disaster detection models, carbon-aware systems) on GitHub.
+
+- **Publish Your Work**
+
+  - Write blog posts or reports on Medium/Twitter to share insights and get feedback.
+
+- **Network in Climate AI Communities**
+
+  - Engage with **Climate Change AI**, **Climate Trace partners**, and other climate tech networks.
+
+- **Participate in Competitions and Hackathons**
+
+  - Join challenges related to remote sensing, emissions tracking, or energy forecasting.
+
+- **Apply for Internships and Fellowships**
+  - Look for roles with climate tech companies, NGOs, or research groups to gain practical experience.
