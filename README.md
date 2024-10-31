@@ -1,5 +1,9 @@
 # Masters in Machine Learning for the Climate
 
+## Contributing
+
+- Please fork this repository and create a pull request with your suggestions!
+
 ## Prerequisites
 
 1. **Mathematics for Machine Learning**
@@ -9,17 +13,17 @@
 
 2. **Python Programming for Data Science and ML**
 
-   - Key Libraries: PyTorch, scikit-learn, GeoPandas, Rasterio, TensorFlow.
+   - Key Libraries: [PyTorch](https://github.com/pytorch/pytorch), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [GeoPandas](https://github.com/geopandas/geopandas), [Rasterio](https://github.com/rasterio/rasterio), [TensorFlow](https://github.com/tensorflow).
 
      \* Don't worry, we will get a lot of experience with these
 
-   - Recommended Learning: _Python for Data Science Handbook_, Daniel Bourke’s intro to ML.
+   - Recommended Learning: [_Python for Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/), [Daniel Bourke’s intro to ML](https://youtu.be/r67SfaiYaDI?si=se-JLfyb6mrigRMU), [_The Little Book of Deep Learning_](https://fleuret.org/francois/lbdl.html)
 
 ---
 
 ## Core Curriculum
 
-### 1. Machine Learning and AI (Aligned with Daniel Bourke’s Topics)
+### 1. Machine Learning and AI Fundamentals
 
 - **Supervised and Unsupervised Learning**
 
@@ -126,3 +130,11 @@
 
 - **Apply for Internships and Fellowships**
   - Look for roles with climate tech companies, NGOs, or research groups to gain practical experience.
+
+---
+
+## Let's Connect!
+
+- Send me a message on X: [**@thebrianalonso**](https://x.com/thebrianalonso)
+- Connect on Medium: [**@thebrianalonso**](https://medium.com/@thebrianalonso) (where I share my progress through this curriculum)
+- Check out my other projects on my site: [**balonso.com**](https://balonso.com)
