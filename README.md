@@ -4,20 +4,47 @@
 
 - Please fork this repository and create a pull request with your suggestions!
 
+## Outline
+
+- [Prerequisites](#prerequisites)
+- [Machine Learning and AI Fundamentals](#1-machine-learning-and-ai-fundamentals)
+- [Remote Sensing and Earth Observation](#2-remote-sensing-and-earth-observation)
+- [Environmental and Climate Science](#3-environmental-and-climate-science)
+- [Applied Tools and Projects](#4-applied-tools-and-projects)
+- [Cloud Computing and Infrastructure](#5-cloud-computing-and-infrastructure)
+- [Ethics and Impact of Climate AI](#6-ethics-and-impact-of-climate-ai)
+- [Capstone Project](#7-capstone-project)
+
+## How to Get the Most Out of This Program
+
+### Show Your Work!
+
+- **Build a Portfolio**: Showcase your projects (e.g., disaster detection models, carbon-aware systems) on GitHub.
+
+- **Publish Your Work**: Write blog posts or reports on Medium/X (Twitter) to share insights and get feedback.
+
+### Join the Community
+
+- **Network in Climate AI Communities**: Engage with [**Climate Change AI**](https://community.climatechange.ai/home), **Climate Trace partners**, and other climate tech networks.
+
+- **Participate in Competitions and Hackathons**: Join challenges related to remote sensing, emissions tracking, or energy forecasting.
+
 ## Prerequisites
 
-1. **Mathematics for Machine Learning**
+These prerequisites are not mandatory, but will be useful references if you find yourself struggling with the content.
 
-   - Topics: Linear Algebra, Calculus, Probability, Optimization.
-   - Recommended: _Mathematics for Machine Learning_ (Coursera).
+### 1. **Mathematics for Machine Learning**
 
-2. **Python Programming for Data Science and ML**
+- Topics: Linear Algebra, Calculus, Probability, Optimization.
+- Recommended: [_Mathematics for Machine Learning_](https://mml-book.github.io).
 
-   - Key Libraries: [PyTorch](https://github.com/pytorch/pytorch), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [GeoPandas](https://github.com/geopandas/geopandas), [Rasterio](https://github.com/rasterio/rasterio), [TensorFlow](https://github.com/tensorflow).
+### 2. **Python Programming for Data Science and ML**
 
-     \* Don't worry, we will get a lot of experience with these
+- Key Libraries: [PyTorch](https://github.com/pytorch/pytorch), [scikit-learn](https://github.com/scikit-learn/scikit-learn), [GeoPandas](https://github.com/geopandas/geopandas), [Rasterio](https://github.com/rasterio/rasterio), [TensorFlow](https://github.com/tensorflow).
 
-   - Recommended Learning: [_Python for Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/), [Daniel Bourke’s intro to ML](https://youtu.be/r67SfaiYaDI?si=se-JLfyb6mrigRMU), [_The Little Book of Deep Learning_](https://fleuret.org/francois/lbdl.html)
+  \* Don't worry, we will get a lot of experience with these
+
+- Recommended: [_Python for Data Science Handbook_](https://jakevdp.github.io/PythonDataScienceHandbook/), [Daniel Bourke’s intro to ML](https://youtu.be/r67SfaiYaDI?si=se-JLfyb6mrigRMU), [_The Little Book of Deep Learning_](https://fleuret.org/francois/lbdl.html)
 
 ---
 
@@ -104,32 +131,13 @@
 
 ### 7. Capstone Project
 
+The capstone project is intended to be a culmination of the skills and knowledge you've gained throughout the program and the start of your journey as a climate AI practitioner.
+
+Using your community and network, get feedback from peers and mentors who are experienced in the field to make your project as impactful as possible.
+
 **"Carbon-Aware Energy Monitoring System"**
 
 - Build a WattTime-style system that integrates satellite imagery, vector data, and ML models to optimize energy use based on real-time emissions.
-
----
-
-## 8. Maximizing Job Potential
-
-- **Build a Portfolio**
-
-  - Showcase your applied projects (e.g., disaster detection models, carbon-aware systems) on GitHub.
-
-- **Publish Your Work**
-
-  - Write blog posts or reports on Medium/Twitter to share insights and get feedback.
-
-- **Network in Climate AI Communities**
-
-  - Engage with **Climate Change AI**, **Climate Trace partners**, and other climate tech networks.
-
-- **Participate in Competitions and Hackathons**
-
-  - Join challenges related to remote sensing, emissions tracking, or energy forecasting.
-
-- **Apply for Internships and Fellowships**
-  - Look for roles with climate tech companies, NGOs, or research groups to gain practical experience.
 
 ---
 
