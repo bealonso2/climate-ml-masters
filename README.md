@@ -23,7 +23,7 @@ This course is designed to be hands-on, so each chapter will have a folder of no
 
 - The `Start` notebooks will point you to the correct dataset and have markdown sections explaining what to implement in the code blocks.
 
-- The `Complete` notebooks will have the full code implementation--at least how I solved it :).
+- The `Complete` notebooks will have the full code implementation--at least how I completed it :).
 
 ## How to Get the Most Out of This Program
 

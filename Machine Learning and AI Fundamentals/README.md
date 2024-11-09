@@ -12,15 +12,21 @@ Supervised learning is further divided into regression and classification tasks.
 
 To get started, we will implement a simple linear regression model using the [Diabetes dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset).
 
+[Get started here!](./Start/Diabetes%20Regression.ipynb)
+
 ## Unsupervised Learning
 
 Unsupervised learning is used to identify patterns in data without any prior knowledge. Clustering and dimensionality reduction are common unsupervised learning techniques.
 
 Let's start with a simple example of clustering using the [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set). Note: the Iris dataset is a classic <u>labeled</u> (remember, think supervised) dataset, but we will ignore the labels for this exercise to treat it as an unsupervised learning problem.
 
+[Get started here!](./Start/Iris%20Clustering.ipynb)
+
 We'll implement k-means and hierarchical clustering algorithms to cluster the Iris dataset.
 
 Dimensionality reduction is another unsupervised learning technique that is used to reduce the number of features in complex data. We'll use [The Cancer Genome Atlas (TCGA) dataset](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) to demonstrate principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) techniques.
+
+[Get started here!](./Start/Cancer%20Dimensionality%20Reduction.ipynb)
 
 ## Climate AI Models
 
@@ -32,10 +38,14 @@ Deep learning models, such as convolutional neural networks (CNNs) and recurrent
 
 For now, let's set up an image recognition model to classify numbers from the [MNIST dataset](https://en.wikipedia.org/wiki/MNIST_database).
 
+[Get started here!](./Start/MNIST%20Computer%20Vision.ipynb)
+
 ### Time Series Forecasting for Climate Data
 
 Time series forecasting models, such as ARIMA, LSTMs, and transformers, are essential for analyzing temporal data, such as climate and weather data.
 
 Let's set up a time series forecasting model using the Daily Minimum Temperatures in Melbourne dataset [(raw data)](https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv).
+
+[Get started here!](./Start/Melbourne%20Forecasting.ipynb)
 
 <!-- https://rstudio-pubs-static.s3.amazonaws.com/780805_e5204cea11a44fa99f09bc4cc8816593.html -->
