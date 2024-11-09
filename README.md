@@ -50,24 +50,24 @@ These prerequisites are not mandatory, but will be useful references if you find
 
 ## Core Curriculum
 
-### 1. Machine Learning and AI Fundamentals
+### 1. [Machine Learning and AI Fundamentals](./Machine%20Learning%20and%20AI%20Fundamentals/README.md)
 
-- **Supervised and Unsupervised Learning**
+- **Supervised Learning**
 
-  - Linear Regression, Classification, Clustering.
+  - Linear Regression: Implementing a simple linear regression model using the Diabetes dataset.
+  - Classification: Overview of classification tasks.
+
+- **Unsupervised Learning**
+
+  - Clustering: Implementing k-means and hierarchical clustering algorithms using the Iris dataset.
+  - Dimensionality Reduction: Demonstrating principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) techniques using The Cancer Genome Atlas (TCGA) dataset.
 
 - **Deep Learning for Computer Vision**
 
-  - CNNs, Transfer Learning, U-Net segmentation models.
+  - Setting up an image recognition model to classify numbers from the MNIST dataset.
 
 - **Time Series Forecasting for Climate Data**
-
-  - ARIMA, LSTMs, Transformers for temporal analysis.
-
-- **ML Engineering and MLOps**
-  - Model deployment, monitoring, and pipelines with MLflow and DVC.
-
----
+  - Setting up a time series forecasting model using the Daily Minimum Temperatures in Melbourne dataset.
 
 ### 2. Remote Sensing and Earth Observation
 
@@ -83,8 +83,6 @@ These prerequisites are not mandatory, but will be useful references if you find
   - Tools: GeoPandas, QGIS, Shapely.
   - Use Cases: Power grid mapping, emission sources, and disaster response routes.
 
----
-
 ### 3. Environmental and Climate Science
 
 - **Climate Change and Carbon Tracking**
@@ -93,8 +91,6 @@ These prerequisites are not mandatory, but will be useful references if you find
 
 - **Energy Systems and Grid Monitoring**
   - Topics: Energy markets, demand-response models, and emissions tracking APIs.
-
----
 
 ### 4. Applied Tools and Projects
 
@@ -109,8 +105,6 @@ These prerequisites are not mandatory, but will be useful references if you find
 - **Energy Usage Forecasting**
   - Use time series models to predict energy demand and optimize consumption.
 
----
-
 ### 5. Cloud Computing and Infrastructure
 
 - **Cloud Platforms for Data Science**
@@ -120,14 +114,10 @@ These prerequisites are not mandatory, but will be useful references if you find
 - **Containerization and Reproducibility**
   - Use Docker, Kubernetes for scalable and reproducible workflows.
 
----
-
 ### 6. Ethics and Impact of Climate AI
 
 - **Responsible AI for Climate Action**
   - Topics: Data privacy, ethical considerations, and bias in emissions tracking.
-
----
 
 ### 7. Capstone Project
 
