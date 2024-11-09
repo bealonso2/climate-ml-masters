@@ -15,6 +15,16 @@
 - [Ethics and Impact of Climate AI](#6-ethics-and-impact-of-climate-ai)
 - [Capstone Project](#7-capstone-project)
 
+### How the Course Works
+
+The goal of each chapter is to provide an overview of the topic and teach you just enough to get started. You are encouraged to explore the topics in more depth on your own!
+
+This course is designed to be hands-on, so each chapter will have a folder of notebooks called `Start` and `Complete`.
+
+- The `Start` notebooks will point you to the correct dataset and have markdown sections explaining what to implement in the code blocks.
+
+- The `Complete` notebooks will have the full code implementation--at least how I solved it :).
+
 ## How to Get the Most Out of This Program
 
 ### Show Your Work!
