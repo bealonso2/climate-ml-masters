@@ -20,9 +20,9 @@ Unsupervised learning is used to identify patterns in data without any prior kno
 
 Let's start with a simple example of clustering using the [Iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set). Note: the Iris dataset is a classic <u>labeled</u> (remember, think supervised) dataset, but we will ignore the labels for this exercise to treat it as an unsupervised learning problem.
 
-[Get started here!](./Start/Iris%20Clustering.ipynb)
-
 We'll implement k-means and hierarchical clustering algorithms to cluster the Iris dataset.
+
+[Get started here!](./Start/Iris%20Clustering.ipynb)
 
 Dimensionality reduction is another unsupervised learning technique that is used to reduce the number of features in complex data. We'll use [The Cancer Genome Atlas (TCGA) dataset](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) to demonstrate principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) techniques.
 
