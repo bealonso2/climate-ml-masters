@@ -24,7 +24,7 @@ We'll implement k-means and hierarchical clustering algorithms to cluster the Ir
 
 [Get started here!](./Start/Iris%20Clustering.ipynb)
 
-Dimensionality reduction is another unsupervised learning technique that is used to reduce the number of features in complex data. We'll use [The Cancer Genome Atlas (TCGA) dataset](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) to demonstrate principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) techniques.
+Dimensionality reduction is another unsupervised learning technique that is used to reduce the number of features in complex data. We'll use the [Breast cancer wisconsin (diagnostic) dataset](https://scikit-learn.org/1.5/datasets/toy_dataset.html#breast-cancer-wisconsin-diagnostic-dataset) to demonstrate principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) techniques.
 
 [Get started here!](./Start/Cancer%20Dimensionality%20Reduction.ipynb)
 
