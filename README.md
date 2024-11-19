@@ -141,6 +141,12 @@ Using your community and network, get feedback from peers and mentors who are ex
 
 ---
 
+## Want to Go Deeper?
+
+Check out [François Fleuret's Deep Learning course](https://fleuret.org/dlc/) for further exploration of deep learning concepts.
+
+---
+
 ## Let's Connect!
 
 - Send me a message on X: [**@thebrianalonso**](https://x.com/thebrianalonso)
