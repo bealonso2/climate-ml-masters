@@ -47,5 +47,3 @@ Time series forecasting models, such as ARIMA, LSTMs, and transformers, are esse
 Let's set up a time series forecasting model using the Daily Minimum Temperatures in Melbourne dataset [(raw data)](https://raw.githubusercontent.com/jbrownlee/Datasets/master/daily-min-temperatures.csv).
 
 [Get started here!](./Start/Melbourne%20Forecasting.ipynb)
-
-<!-- https://rstudio-pubs-static.s3.amazonaws.com/780805_e5204cea11a44fa99f09bc4cc8816593.html -->
