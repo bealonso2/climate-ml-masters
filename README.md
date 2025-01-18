@@ -6,14 +6,23 @@
 
 ## Outline
 
-- [Prerequisites](#prerequisites)
-- [Machine Learning and AI Fundamentals](#1-machine-learning-and-ai-fundamentals)
-- [Remote Sensing and Earth Observation](#2-remote-sensing-and-earth-observation)
-- [Environmental and Climate Science](#3-environmental-and-climate-science)
-- [Applied Tools and Projects](#4-applied-tools-and-projects)
-- [Cloud Computing and Infrastructure](#5-cloud-computing-and-infrastructure)
-- [Ethics and Impact of Climate AI](#6-ethics-and-impact-of-climate-ai)
-- [Capstone Project](#7-capstone-project)
+- [Masters in Machine Learning for the Climate](#masters-in-machine-learning-for-the-climate)
+  - [Contributing](#contributing)
+  - [Outline](#outline)
+    - [How the Course Works](#how-the-course-works)
+  - [How to Get the Most Out of This Program](#how-to-get-the-most-out-of-this-program)
+    - [Show Your Work!](#show-your-work)
+    - [Join the Community](#join-the-community)
+  - [Prerequisites](#prerequisites)
+    - [1. **Mathematics for Machine Learning**](#1-mathematics-for-machine-learning)
+    - [2. **Python Programming for Data Science and ML**](#2-python-programming-for-data-science-and-ml)
+  - [Core Curriculum](#core-curriculum)
+    - [1. Machine Learning and AI Fundamentals](#1-machine-learning-and-ai-fundamentals)
+    - [2. Remote Sensing and Earth Observation](#2-remote-sensing-and-earth-observation)
+    - [3. Applied Tools and Projects](#3-applied-tools-and-projects)
+    - [4. Capstone Project](#4-capstone-project)
+  - [Want to Go Deeper?](#want-to-go-deeper)
+  - [Let's Connect!](#lets-connect)
 
 ### How the Course Works
 
@@ -93,16 +102,7 @@ These prerequisites are not mandatory, but will be useful references if you find
   - Tools: GeoPandas, QGIS, Shapely.
   - Use Cases: Power grid mapping, emission sources, and disaster response routes.
 
-### 3. Environmental and Climate Science
-
-- **Climate Change and Carbon Tracking**
-
-  - IPCC reports, carbon footprints, sustainability metrics.
-
-- **Energy Systems and Grid Monitoring**
-  - Topics: Energy markets, demand-response models, and emissions tracking APIs.
-
-### 4. Applied Tools and Projects
+### 3. Applied Tools and Projects
 
 - **Real-Time Carbon Monitoring Systems**
 
@@ -115,21 +115,7 @@ These prerequisites are not mandatory, but will be useful references if you find
 - **Energy Usage Forecasting**
   - Use time series models to predict energy demand and optimize consumption.
 
-### 5. Cloud Computing and Infrastructure
-
-- **Cloud Platforms for Data Science**
-
-  - Tools: Google Cloud, AWS, Hugging Face Spaces.
-
-- **Containerization and Reproducibility**
-  - Use Docker, Kubernetes for scalable and reproducible workflows.
-
-### 6. Ethics and Impact of Climate AI
-
-- **Responsible AI for Climate Action**
-  - Topics: Data privacy, ethical considerations, and bias in emissions tracking.
-
-### 7. Capstone Project
+### 4. Capstone Project
 
 The capstone project is intended to be a culmination of the skills and knowledge you've gained throughout the program and the start of your journey as a climate AI practitioner.
 
