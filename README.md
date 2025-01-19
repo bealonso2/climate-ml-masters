@@ -88,7 +88,7 @@ These prerequisites are not mandatory, but will be useful references if you find
 - **Time Series Forecasting for Climate Data**
   - Setting up a time series forecasting model using the Daily Minimum Temperatures in Melbourne dataset.
 
-### 2. Remote Sensing and Earth Observation
+### 2. [Remote Sensing and Earth Observation](./Remote%20Sensing%20and%20Earth%20Observation/README.md)
 
 - **Foundations of Remote Sensing**
 
