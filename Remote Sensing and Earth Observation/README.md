@@ -39,12 +39,6 @@ In this project, we'll analyze the extent of a wildfire in Maui using Sentinel-2
 
 [Get started here!](./Start/NBR%20Fire%20Analysis.ipynb)
 
-### Project: Landsat and Sentinel Image Analysis
-
-In this project, we'll use **Google Earth Engine** to obtain **Landsat** and **Sentinel** imagery and analyze changes over time, such as deforestation or urban growth. You'll also learn how to work with raster data using Python to calculate relevant metrics like vegetation indices.
-
-[Get started here!](./Start/Raster%20Image%20Analysis.ipynb)
-
 ## Vector-Based Spatial Data Analysis
 
 Vector data consists of points, lines, and polygons that represent various features like cities, roads, or power grid infrastructure. Analyzing vector data allows us to make meaningful conclusions about spatial relationships.
@@ -55,18 +49,8 @@ Vector data consists of points, lines, and polygons that represent various featu
 - **QGIS**: A powerful open-source GIS tool for visualizing and processing geospatial data.
 - **Shapely**: A Python package for geometric operations like buffering and spatial joins.
 
-### Project: Mapping Emission Sources and Power Grids
+### Project: Flood Risk Assessment Using Vector Data
 
-In this project, we will use **GeoPandas** and **QGIS** to map emissions sources and power grid infrastructure. The aim is to understand the spatial relationships between different infrastructure components and emission hotspots, with a focus on using **vector-based analysis** to optimize planning and disaster response.
+In this project, we will use **GeoPandas**, **Shapely**, and **folium** to map flood risk zones and assess the impact on land use and population. This analysis is crucial for disaster response planning and understanding the spatial relationships between infrastructure, population, and environmental risks.
 
-[Get started here!](./Start/Vector%20Analysis%20Emission%20Sources.ipynb)
-
-## Hands-On Challenge: Integrating Raster and Vector Data
-
-Remote sensing is most powerful when we combine raster and vector data to derive insights. For example, combining NDVI (raster) with agricultural field boundaries (vector) can help identify which specific fields are experiencing reduced vegetation health.
-
-### Project: Field-Level Vegetation Monitoring
-
-In this integrated project, we will analyze **vegetation health** across different agricultural fields using **NDVI** from raster data and field boundaries from vector data. Additionally, we will apply machine learning models such as random forests or gradient boosting to predict vegetation health metrics based on spatial and temporal features. This kind of analysis is particularly useful for **precision agriculture**.
-
-[Get started here!](./Start/Field%20Level%20Vegetation%20Monitoring.ipynb)
+[Get started here!](./Start/Flood%20Risk%20Analysis.ipynb)
