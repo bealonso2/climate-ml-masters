@@ -18,12 +18,6 @@ Remote sensing is the use of satellites or aircraft to observe the Earth's surfa
 
 - **Multi-band Imagery**: Imagery that contains multiple layers, each representing different parts of the electromagnetic spectrum.
 
-### Project: Understanding NDVI and NDSI
-
-To get started, we'll use Google Earth Engine to calculate NDVI and NDSI for a selected region using **Landsat imagery**. This will provide a hands-on understanding of vegetation health and snow cover analysis.
-
-[Get started here!](./Start/NDVI%20NDSI%20Analysis.ipynb)
-
 ## Working with Raster Data
 
 Raster data is the most common format for remote sensing imagery, representing the Earth's surface in grids of pixels, each with a value representing a specific property like temperature or reflectance.
@@ -32,6 +26,18 @@ Raster data is the most common format for remote sensing imagery, representing t
 
 - **[Google Earth Engine](https://earthengine.google.com/)**: A powerful tool for working with large satellite datasets like **Landsat**, **Sentinel**, and **MODIS**.
 - **Python Libraries**: Tools like **Rasterio** and **Geopandas** make it easy to manipulate and analyze raster data.
+
+## Project: Working with Raster Data to Understand NDVI and NDSI
+
+In the first project, we'll use Google Earth Engine to calculate NDVI and NDSI for a selected region using Landsat imagery. This will provide a hands-on understanding of vegetation health and snow cover analysis.
+
+[Get started here!](./Start/NDVI%20NDSI%20Analysis.ipynb)
+
+## Project: Another Raster Example—Maui Wildfire Analysis
+
+In this project, we'll analyze the extent of a wildfire in Maui using Sentinel-2 imagery. We'll calculate the **Normalized Burn Ratio (NBR)** to identify the burned area. This project will give you a practical understanding of the challenges producing high-quality images for wildfire monitoring.
+
+[Get started here!](./Start/NBR%20Fire%20Analysis.ipynb)
 
 ### Project: Landsat and Sentinel Image Analysis
 
